@@ -1,0 +1,7 @@
+.cabecalhoGeral{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 15em;
+}

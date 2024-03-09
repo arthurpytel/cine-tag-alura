@@ -1,0 +1,12 @@
+.rodape{
+    background-color: #000000;
+    padding: 1em;
+    text-align: center;
+}
+
+.rodape h2 {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    color: #F0F0F0;
+}
